@@ -1,5 +1,5 @@
-color:yellow
+color:green
 name: back-merge file
 title: back-merge
-yellow color modified
+green color modified
 
